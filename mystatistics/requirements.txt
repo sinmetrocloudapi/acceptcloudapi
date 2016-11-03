@@ -1,0 +1,15 @@
+BeautifulSoup==3.2.1
+Django==1.10.1
+docutils==0.12
+numpy==1.11.2
+PyMySQL==0.7.9
+simplejson==3.8.2
+statistics==1.0.3.5
+requests==2.11.1
+plotly==1.12.9
+pyparsing==2.1.10
+python-dateutil==2.5.3
+pytz==2016.7
+six==1.10.0
+cycler==0.10.0
+matplotlib==1.5.3
